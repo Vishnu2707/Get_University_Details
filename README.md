@@ -7,12 +7,12 @@ Key Concept - API call using Python.
 
 Requirements
 
-# Do install requests library - python.
+Do install requests library - python.
 
-# Command to install is  - pip install requests.
+Command to install - pip install requests.
 
-# API call has been done and the input is given with the call so that the necessary data is fetched.
+API call has been done and the input is given with the call so that the necessary data is fetched.
 
-# The fetched data is then manaipulated according to the needs. I have commented in between the code for better understanding.
+The fetched data is then manaipulated according to the needs. I have commented in between the code for better understanding.
 
-# The response that we get after the API fetch is in json format. Make sure to convert and utilize the data accordingly.
+The response that we get after the API fetch is in json format. Make sure to convert and utilize the data accordingly.
