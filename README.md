@@ -13,6 +13,6 @@ Command to install - pip install requests.
 
 API call has been done and the input is given with the call so that the necessary data is fetched.
 
-The fetched data is then manaipulated according to the needs. I have commented in between the code for better understanding.
+The fetched data is then manipulated according to the needs. I have commented in between the code for better understanding.
 
 The response that we get after the API fetch is in json format. Make sure to convert and utilize the data accordingly.
