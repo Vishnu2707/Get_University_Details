@@ -3,9 +3,9 @@ Intended to provide details about the Universities Country-wise, State-wise and 
 
 Hi There!!
 
-Key Concept - API call using Python.
+$ Key Concept - API call using Python.
 
-Requirements
+# Requirements
 
 Do install requests library - python.
 
